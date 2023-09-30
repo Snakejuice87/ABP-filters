@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: Mobile Annoyances Autoclick
+! Homepage: 
+! Licence: https://creativecommons.org/licenses/by-sa/4.0/
+! Version: 20210303
+
+chan.sankakucomplex.com##div#content > div[style]
+chan.sankakucomplex.com##div#content > div[style="z-index:852586"]
+chan.sankakucomplex.com##div#content > div[z-index="852586"]
+chan.sankakucomplex.com##div#content > div:nth-of-type(12)
